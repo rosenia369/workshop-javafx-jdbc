@@ -32,7 +32,7 @@
             <TableColumn fx:id="tableColumnBirthDate" prefWidth="74.66668701171875" text="Birth Date" />
             <TableColumn fx:id="tableColumnBaseSalary" text="Base Salary" />
             <TableColumn fx:id="tableColumnEDIT" prefWidth="58.0" />
-            <TableColumn fx:id="tableColumnREMOVE" prefWidth="44.000030517578125" />
+            <TableColumn fx:id="tableColumnREMOVE" prefWidth="55.333282470703125" />
         </columns>
       </TableView>
    </children>
